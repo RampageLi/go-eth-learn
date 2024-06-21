@@ -1,4 +1,4 @@
-module example/client
+module client
 
 go 1.21.11
 
